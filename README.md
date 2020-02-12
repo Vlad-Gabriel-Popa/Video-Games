@@ -15,7 +15,7 @@ This game is an endless runner. You lose either by colliding 3 times with the re
 The game cycles between night and day.  
 <img src="images/t2_p1.png" width=400>
 <img src="images/t2_p2.png" width=400>
-<img src="images/t2_p3.png" width=400>
+<img src="images/t2_p3.png" width=400 align="middle">
 
 ## Game3: Cannons  
 Location: Tema3/  
