@@ -26,5 +26,5 @@ When a cannonball hits the ground it will deform it.
 <img src="images/t3_p1.png" width=400 align="left">
 <img src="images/t3_p2.png" width=400 align="left">  
 <p align="center">
-<img src="images/t3_p3.png" width=400>
+<img src="images/t3_p3.png" width=300>
 </p>  
