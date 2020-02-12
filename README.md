@@ -22,8 +22,8 @@ The game cycles between night and day.
 Location: Tema3/  
 Two cannons are spawned on a map generated using a heightmap. They take turns in lunching cannonballs at eachother.
 When a cannonball hits the ground it will deform it.  
-<img src="images/t3_p1.png" width=400>
-<img src="images/t3_p2.png" width=400>
+<img src="images/t3_p1.png" width=400 align="left">
+<img src="images/t3_p2.png" width=400 align="left">
 <p align="center">
 <img src="images/t3_p3.png" width=400>
 </p>
