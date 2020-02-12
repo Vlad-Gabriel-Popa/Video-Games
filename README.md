@@ -7,6 +7,7 @@ Location: Tema1/
 
 This is a copy of Flappy Bird, with 2 playing modes: classic mode(very similar to Flappy Bird) and gangster mode (the pillars are inclined, they move back and forth and change colors).    
 
+
 <img src="images/t1_p1.png" width=400>
 <img src="images/t1_p2.png" width=400>
 
