@@ -17,7 +17,8 @@ The game cycles between night and day.
 <img src="images/t2_p2.png" width=400>
 <p align="center">
 <img src="images/t2_p3.png" width=400>
-</p>
+</p>  
+
 ## Game3: Cannons  
 Location: Tema3/  
 Two cannons are spawned on a map generated using a heightmap. They take turns in lunching cannonballs at eachother.
